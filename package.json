@@ -10,6 +10,16 @@
   "author": "mrko kbr",
   "license": "ISC",
   "dependencies": {
-    "superheroes": "^3.0.0"
-  }
+    "superheroes": "^3.0.0",
+    "supervillains": "^3.0.0"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/entertthk/superheroes2020.git"
+  },
+  "bugs": {
+    "url": "https://github.com/entertthk/superheroes2020/issues"
+  },
+  "homepage": "https://github.com/entertthk/superheroes2020#readme"
 }
